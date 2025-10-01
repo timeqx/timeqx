@@ -49,8 +49,19 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
-
-<div align="right">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeqx&theme=radical&show_icons=true&locale=ja&custom_title=<?_!_timeqxdev_8_/>)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <br><br>
+        <em>"Poetry in translation is like taking a shower with a raincoat on"</em>
+        <br><br>
+      </td>
+      <td align="right" style="border: none;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=timeqx&theme=radical&show_icons=true&locale=ja&custom_title=<?_!_timeqxdev_8_/>" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
