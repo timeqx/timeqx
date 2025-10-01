@@ -52,6 +52,5 @@
 
 <div align="right">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timeqx&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeqx&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
