@@ -52,5 +52,5 @@
 
 <div align="right">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeqx&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeqx&theme=radical&show_icons=true&locale=ja&custom_title=<?_!_timeqxdev_8_/>)](https://github.com/anuraghazra/github-readme-stats)
 </div>
