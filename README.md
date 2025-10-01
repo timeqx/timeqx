@@ -83,6 +83,6 @@ Open to collaboration and interesting projects. Feel free to reach out!
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timeqx&show_icons=true&theme=default&hide_border=true)
 
 </div>
