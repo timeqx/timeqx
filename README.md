@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-timeqxdev.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://timeqxdev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osorio.timothy.03082003@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B63%20919%20362%209016-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639193629016)
 
 ---
 
