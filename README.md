@@ -58,7 +58,7 @@
       </td>
       <td align="right" style="border: none;">
         <a href="https://github.com/stats-organization/github-stats-extended">
-          <img src="https://github-readme-stats.vercel.app/api?username=timeqx&theme=radical&show_icons=true&locale=ja&custom_title=<?_!_timeqxdev_8_/>" alt="GitHub Stats" />
+          <img src="https://github-stats-extended.vercel.app/api?username=timeqx&theme=radical&show_icons=true&locale=ja&custom_title=<?_!_timeqxdev_8_/>" alt="GitHub Stats" />
         </a>
       </td>
     </tr>
